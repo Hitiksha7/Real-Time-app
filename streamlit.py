@@ -132,7 +132,7 @@ if submitted and user_input:
         st.markdown(box_html, unsafe_allow_html=True)
 
 # Add clear conversation button
-if st.sidebar.button("🗑️ Clear Conversation"):
+if st.sidebar.button("Clear Conversation"):
     st.session_state.messages = []
     st.session_state.thread_id = None
     st.rerun()

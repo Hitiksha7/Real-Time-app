@@ -1,6 +1,6 @@
 
 # 🤖 Real-Time AI Chat with Intelligent Web Search
-A production-ready, streaming AI chat application that intelligently decides when to search the web for current information. Built with LangGraph for agentic workflows, FastAPI for high-performance backend, and Streamlit for interactive UI.
+A streaming AI chat application that intelligently decides when to search the web for current information. Built with LangGraph for agentic workflows, FastAPI for high-performance backend, and Streamlit for interactive UI.
 
 #### 🎯 Overview
 
