@@ -6,7 +6,7 @@ A streaming AI chat application that intelligently decides when to search the we
 
 This application demonstrates a single-agent architecture with dynamic tool-calling capabilities. The AI agent autonomously decides when to search the web for current information versus answering from its training data, providing real-time, accurate responses with source citations.
 ## Demo Video
-🎥 **Watch the demo:** [Click here to view on Google Drive][(Watch here!](https://drive.google.com/file/d/1bBhj34tv4UnK8j7j5m5K1NHfMXPJl-XT/view?usp=sharing
+🎥 **Watch the demo:** [Click here to view][(Watch here!!](https://drive.google.com/file/d/1bBhj34tv4UnK8j7j5m5K1NHfMXPJl-XT/view?usp=sharing
 ))
 
 
