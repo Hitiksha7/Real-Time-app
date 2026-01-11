@@ -8,7 +8,8 @@ This application demonstrates a single-agent architecture with dynamic tool-call
 
 ## Demo Video
 
-[![Watch Demo](https://img.shields.io/badge/▶️-Watch%20Demo%20Video-red?style=for-the-badge)]([(https://drive.google.com/file/d/1bBhj34tv4UnK8j7j5m5K1NHfMXPJl-XT/view?usp=sharing)])
+🎥 **Watch the demo:** [Click here to view on Google Drive]([(https://drive.google.com/file/d/1bBhj34tv4UnK8j7j5m5K1NHfMXPJl-XT/view?usp=sharing)])
+
 
 ##### Use Cases:
 - Research assistance with current information
