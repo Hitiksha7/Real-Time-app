@@ -46,6 +46,7 @@ Agent Decision → Tool Execution → Result Processing → Streaming to User
 
 #### 🏗️ Architecture
 <img width="461" height="1072" alt="Image" src="https://github.com/user-attachments/assets/b380017a-6be8-4999-a3ac-b903744f0154" />
+
 #### System Overview
 
 🔧 Technical Architecture
